@@ -1,0 +1,13 @@
+             Total cost output Report             
+==================================================
+Number of simulations:                       10000
+Mean of distribution:                     25075.33
+Standard deviation:                        5493.72
+
+Confidence Intervals for Total cost:
+--------------------------------------------------
+68% (1 sigma)                   19581.61 - 30569.05  
+95% (2 sigma)                   14087.90 - 36062.77  
+99.7% (3 sigma)                  8594.18 - 41556.49  
+==================================================
+                  End of Report                   

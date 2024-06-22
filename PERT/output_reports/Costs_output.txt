@@ -1,0 +1,13 @@
+               Costs output Report                
+==================================================
+Number of simulations:                       10000
+Mean of distribution:                     18964.30
+Standard deviation:                         486.59
+
+Confidence Intervals for Costs:
+--------------------------------------------------
+68% (1 sigma)                   18477.71 - 19450.89  
+95% (2 sigma)                   17991.11 - 19937.48  
+99.7% (3 sigma)                 17504.52 - 20424.07  
+==================================================
+                  End of Report                   

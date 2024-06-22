@@ -1,0 +1,13 @@
+        Risks impact in cost output Report        
+==================================================
+Number of simulations:                       10000
+Mean of distribution:                      6111.04
+Standard deviation:                        5466.66
+
+Confidence Intervals for Risks impact in cost:
+--------------------------------------------------
+68% (1 sigma)                     644.38 - 11577.69  
+95% (2 sigma)                       0.00 - 17044.35  
+99.7% (3 sigma)                     0.00 - 22511.01  
+==================================================
+                  End of Report                   
